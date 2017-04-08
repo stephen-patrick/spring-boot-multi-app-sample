@@ -1,0 +1,1 @@
+Validate multiply task x and y parameters using max and min values for integer type.
